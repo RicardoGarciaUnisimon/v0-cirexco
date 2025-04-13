@@ -7,8 +7,7 @@
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+El circulo de excelencia comercial (CIREXCO) es un test para evaluar competencias comerciales desarrollado por la Cámara Internacional de Empresarios de Barcelona (CIE Barcelona) que a través de su programa de Coaching Comercial, lleva más de 10 años de experiencia formando vendedores, líderes de ventas y coaches comerciales. 
 
 ## Deployment
 
