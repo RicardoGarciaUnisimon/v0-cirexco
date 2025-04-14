@@ -7,7 +7,7 @@ export function CircleInfo() {
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">¿Qué es CIREXCO?</h2>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-          <div>
+          <div className="order-2 lg:order-1">
             <p className="text-gray-700 mb-6">
               El círculo de excelencia comercial CIREXCO es un test para evaluar competencias comerciales y de
               liderazgo. Está basado en un modelo de competencias que hemos desarrollado a través de los programas de
@@ -30,7 +30,7 @@ export function CircleInfo() {
             </div>
           </div>
 
-          <div className="relative">
+          <div className="relative order-1 lg:order-2">
             <div className="w-full max-w-md mx-auto">
               <Image
                 src="/placeholder.svg?height=400&width=400"
